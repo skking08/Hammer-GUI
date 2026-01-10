@@ -30,4 +30,15 @@ basic concepts of **network traffic generation, multithreading, and GUI programm
 ---
 
 ## 📂 Project Structure
+hammer-gui/
+│
+├── hammer_gui.py # Main application
+├── README.md # Project documentation
+├── .gitignore # Git ignore rules
 
+---
+
+## ▶️ How to Run
+
+```bash
+python3 hammer_gui.py
