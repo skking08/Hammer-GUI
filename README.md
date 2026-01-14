@@ -32,10 +32,11 @@ basic concepts of **network traffic generation, multithreading, and GUI programm
 ## 📂 Project Structure
 hammer-gui/
 │
-├── hammer_gui.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── hammer_gui.py        # Main GUI application
+├── requirements.txt    # Dependencies
+├── README.md           # Documentation
+└── .gitignore          # Git ignore rules
+
 
 
 ---
