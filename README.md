@@ -34,10 +34,8 @@ hammer-gui/
 │
 ├── hammer_gui.py        # Main GUI application
 ├── requirements.txt    # Dependencies
-├── README.md           # Documentation
-└── .gitignore          # Git ignore rules
-
-
+├── README.md            # Documentation
+└── .gitignore           # Git ignore rules
 
 ---
 
